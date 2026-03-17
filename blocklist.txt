@@ -510,7 +510,10 @@
 ||zenmate.com^$dnsrewrite=NOERROR;A;192.168.1.1
 
 ! ### SECTION: ADULT CONTENT (18+) ###
-||xxnx^$dnsrewrite=NOERROR;A;192.168.1.1
+||bokep.com^$dnsrewrite=NOERROR;A;192.168.1.1
+||xxnx.xyz^$dnsrewrite=NOERROR;A;192.168.1.1
+||xxnx.io^$dnsrewrite=NOERROR;A;192.168.1.1
+||xxnx.com^$dnsrewrite=NOERROR;A;192.168.1.1
 ||0-s.de^$dnsrewrite=NOERROR;A;192.168.1.1
 ||018.us^$dnsrewrite=NOERROR;A;192.168.1.1
 ||069.cc^$dnsrewrite=NOERROR;A;192.168.1.1
